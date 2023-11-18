@@ -20,10 +20,16 @@ Express
 MongoDB
 PassportJS Authentication
 CSV
+
+# Author
+Name: Omendra Tiwari
+GitHub: @omentiwari
+
 # Hosted Link
 Link to Hosted Application
 
 # Installation
 Run npm install for required dependencies.
 
+# Acknowledgements
 This repository contains an advanced Placement Cell Management application built using EJS, MongoDB, ExpressJs, and NodeJs. It facilitates efficient management of student records and seamless scheduling of interviews with various companies.
