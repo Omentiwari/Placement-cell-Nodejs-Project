@@ -26,7 +26,7 @@ Name: Omendra Tiwari
 GitHub: @omentiwari
 
 # Hosted Link
-Link to Hosted Application
+Link to Hosted Application - https://placement-cell-backend-project-vq4f.onrender.com
 
 # Installation
 Run npm install for required dependencies.
